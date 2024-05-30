@@ -1,6 +1,7 @@
 fn main() {
 
     let mut vector = vec![1, 2, 3];
+    let mut vector: Vec<i32> = Vec::new();
 
     vector.push(4);
 
